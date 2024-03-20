@@ -1,0 +1,33 @@
+.container {
+    width: 50%;
+    margin: 0 auto;
+    padding: 20px;
+    /* border: 1px solid #ccc; */
+    border-radius: 5px;
+}
+
+/* .options {
+    margin-bottom: 20px;
+} */
+
+.dash-btn {
+    margin-right: 10px;
+    padding: 10px 20px;
+    background-color:#6341de ;
+    color:#ecf1f5;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.dash-btn:hover {
+    background-color: #0056b3;
+}
+
+#usersTable tbody tr:hover {
+    background-color: lightgray;
+}
+
+.selected {
+    background-color: #ffc107;
+}
